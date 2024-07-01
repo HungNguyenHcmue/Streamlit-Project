@@ -23,7 +23,7 @@ To run those applications, you need to follow these steps:
 1. Clone git repo:
 
   ```bash
-    git clone https://github.com/hunghehe2205/Streamlit-Project
+    git clone https://github.com/HungNguyenHcmue/Streamlit-Project.git
   ```
 
 2. Run the applications using Streamlit:
